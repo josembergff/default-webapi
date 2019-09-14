@@ -1,8 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
-using default_webapi_nuget.domain.interfaces;
+using default_webapi_nuget.Interfaces;
 using Newtonsoft.Json;
 
 namespace default_webapi_nuget.Notifications
