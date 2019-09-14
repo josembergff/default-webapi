@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>default-webapi</id>
+    <version>$version$</version>
+    <title>DefaultWebApi</title>
+    <authors>Josemberg Ferreira</authors>
+    <owners>Josemberg Ferreira</owners>
+    <licenseUrl>https://raw.githubusercontent.com/josembergff/default-webapi-nuget/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/josembergff/default-webapi-nuget</projectUrl>
+    <iconUrl>https://image.flaticon.com/icons/svg/1086/1086581.svg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Custom default configurations for WebApi</description>
+    <releaseNotes>Initial version.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>WebApi, Default WebApi, Custom WebApi</tags>
+  </metadata>
+</package>
