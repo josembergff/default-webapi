@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using default_webapi_nuget.Interfaces;
+using default_webapi.Interfaces;
 using Newtonsoft.Json;
 
-namespace default_webapi_nuget.Notifications
+namespace default_webapi.Notifications
 {
     public class Notifiable : INotifiable
     {

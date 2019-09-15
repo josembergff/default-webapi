@@ -1,5 +1,5 @@
 
-namespace default_webapi_nuget.Interfaces
+namespace default_webapi.Interfaces
 {
     public interface INotifiable
     {

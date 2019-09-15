@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace default_webapi_nuget
+﻿namespace default_webapi
 {
     public class DefaultWebApi
     {

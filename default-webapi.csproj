@@ -1,8 +1,8 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-    <RootNamespace>default_webapi_nuget</RootNamespace>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <RootNamespace>default_webapi</RootNamespace>
     <IsPackable>true</IsPackable>
   </PropertyGroup>
 
