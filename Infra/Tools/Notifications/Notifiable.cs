@@ -4,7 +4,7 @@ using System.Linq;
 using DefaultWebApi.Domain.Interfaces.Tools.Notifications;
 using Newtonsoft.Json;
 
-namespace DefaultWebApi.Intra.Tools.Notifications
+namespace DefaultWebApi.Infra.Tools.Notifications
 {
     public class Notifiable : INotifiable
     {
