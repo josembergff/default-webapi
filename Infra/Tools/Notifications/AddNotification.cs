@@ -1,7 +1,7 @@
 using System;
 using System.Linq.Expressions;
 
-namespace default_webapi.Notifications
+namespace DefaultWebApi.Intra.Tools.Notifications
 {
     public static partial class AddNotification
     {

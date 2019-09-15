@@ -1,5 +1,8 @@
 
-namespace default_webapi.Interfaces
+using System;
+using System.Collections.Generic;
+
+namespace DefaultWebApi.Domain.Interfaces.Tools.Notifications
 {
     public interface INotifiable
     {
@@ -16,6 +19,8 @@ namespace default_webapi.Interfaces
         void AddNotification<T>(string message, T objectValue);
 
         bool IsValid();
+
+        void AddNotifications(Dictionary<string, Object> notifications);
 
     }
 }

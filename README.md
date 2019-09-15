@@ -1,3 +1,3 @@
-# default-webapi
+# DefaultWebApi
 
 Default configurations for webapi .net

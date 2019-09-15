@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using default_webapi.Interfaces;
+using DefaultWebApi.Domain.Interfaces.Tools.Notifications;
 using Newtonsoft.Json;
 
-namespace default_webapi.Notifications
+namespace DefaultWebApi.Intra.Tools.Notifications
 {
     public class Notifiable : INotifiable
     {
@@ -77,6 +77,17 @@ namespace default_webapi.Notifications
                 foreach (var key in listKeys)
                 {
                     listNotifiable.Remove(key);
+                }
+            }
+        }
+
+        public void AddNotifications(Dictionary<string, object> notifications)
+        {
+            if (listNotifiable != null && listNotifiable.Any())
+            {
+                foreach (var line in listNotifiable)
+                {
+                    listNotifiable.Add(line.Key, line.Value);
                 }
             }
         }

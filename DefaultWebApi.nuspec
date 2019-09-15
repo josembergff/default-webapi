@@ -2,11 +2,11 @@
 <package >
   <metadata>
     <id>default-webapi</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <title>DefaultWebApi</title>
     <authors>Josemberg Ferreira</authors>
     <owners>Josemberg Ferreira</owners>
-    <licenseUrl>https://raw.githubusercontent.com/josembergff/default-webapi-nuget/master/LICENSE</licenseUrl>
+    <license>https://raw.githubusercontent.com/josembergff/default-webapi-nuget/master/LICENSE</license>
     <projectUrl>https://github.com/josembergff/default-webapi-nuget</projectUrl>
     <iconUrl>https://image.flaticon.com/icons/svg/1086/1086581.svg</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
