@@ -4,6 +4,22 @@
     <TargetFramework>netstandard1.1</TargetFramework>
     <RootNamespace>default_webapi</RootNamespace>
     <IsPackable>true</IsPackable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Josemberg Ferreira</Authors>
+    <Company />
+    <Description>Custom default configurations for WebApi</Description>
+    <Copyright>MIT</Copyright>
+    <NeutralLanguage>pt-BR</NeutralLanguage>
+    <PackageTags>WebApi, Default WebApi, Custom WebApi</PackageTags>
+    <RepositoryUrl>https://github.com/josembergff/default-webapi-nuget</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/josembergff/default-webapi-nuget</PackageProjectUrl>
+    <RepositoryType>Open Source</RepositoryType>
+    <PackageReleaseNotes>Initial version.</PackageReleaseNotes>
+    <Version>1.0.2</Version>
+    <AssemblyVersion>1.0.2.0</AssemblyVersion>
+    <FileVersion>1.0.2.0</FileVersion>
+    <PackageIconUrl>https://image.flaticon.com/icons/svg/1086/1086581.svg</PackageIconUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/josembergff/default-webapi-nuget/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
