@@ -17,9 +17,9 @@
     <PackageProjectUrl>https://github.com/josembergff/default-webapi-nuget</PackageProjectUrl>
     <RepositoryType>Open Source</RepositoryType>
     <PackageReleaseNotes>Initial version.</PackageReleaseNotes>
-    <Version>1.0.4</Version>
-    <AssemblyVersion>1.0.4.0</AssemblyVersion>
-    <FileVersion>1.0.4.0</FileVersion>
+    <Version>2.0.0</Version>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
     <PackageIconUrl>https://image.flaticon.com/icons/svg/1086/1086581.svg</PackageIconUrl>
     <PackageLicenseUrl>https://raw.githubusercontent.com/josembergff/default-webapi-nuget/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
